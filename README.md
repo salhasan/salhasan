@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Please see my portfolio at https://salhasan.github.io/sadiq_protfolio/
+### Please see my portfolio at https://salhasan.github.io/protfolio/
 
 <!--
 **salhasan/salhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
